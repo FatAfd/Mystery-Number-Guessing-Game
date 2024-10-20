@@ -1,4 +1,4 @@
-# Mystery-Number-Guessing-Game
+# Mystery-Number-Guessing-Game - AWS CLOUD 
 This is a simple web-based number guessing game developed in JavaScript. The project was created as a personal learning exercise to put into practice my skills in cloud technologies, specifically using AWS for deployment.
 
 # Project Overview
